@@ -4,13 +4,10 @@ title: About
 permalink: /about/
 ---
 
-## About Me
+## About the team
 
-I’m an Associate Professor at Sorbonne Université (ENS-PSL, IPGG) working on microfluidics, soft matter and bioengineering.
+The team is led by : 
 
-My interests include:
-- Microscopy & image analysis  
-- Droplet-based microfluidics  
-- Biophysics and biomaterials  
+**Carole Aimé (CR CNRS)**: (Link)[https://caroleaime.com/]
 
-You can learn more on my [research lab website](https://mesobiolab.github.io) or follow my publications on [Google Scholar](https://scholar.google.com).
+**Jacques Fattaccioli (MCF Sorbonne Université)**: (Link)[http://fattaccioli.github.io] 
